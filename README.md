@@ -9,19 +9,25 @@
 ## Screenshots
 
 <h3>Login Page</h3>
-![image](https://github.com/dbrandstetter/quiz-it/assets/100001184/a9a7d8e3-5ec8-4920-9d5c-128a9117756e)
+
+![Screenshot 2024-07-10 174233](https://github.com/dbrandstetter/quiz-it/assets/100001184/6ec963f9-e7fa-4d52-add9-881ce773763a)
 
 <h3>Dashboard</h3>
-![image](https://github.com/dbrandstetter/quiz-it/assets/100001184/5eee5480-f3d2-461c-b2fc-7d867cb248bf)
+
+![Screenshot 2024-07-10 174249](https://github.com/dbrandstetter/quiz-it/assets/100001184/8a996c1b-da4f-41f7-83f7-7213f20b89dc)
 
 <h3>Quiz Selection</h3>
-![image](https://github.com/dbrandstetter/quiz-it/assets/100001184/848550b4-7d19-4910-94e5-542acd8c2c50)
+
+![Screenshot 2024-07-10 174319](https://github.com/dbrandstetter/quiz-it/assets/100001184/9576f19c-9501-49f9-8297-7ee2d3bca0b8)
 
 <h3>Quiz Question</h3>
-![image](https://github.com/dbrandstetter/quiz-it/assets/100001184/59ddcb9f-3f30-462f-a062-2e976f21f86b)
+
+![Screenshot 2024-07-10 174341](https://github.com/dbrandstetter/quiz-it/assets/100001184/a09eba75-500e-41c3-b450-bd1b7ac2f410)
 
 <h3>Evaluation</h3>
-![image](https://github.com/dbrandstetter/quiz-it/assets/100001184/b7c4327d-92d0-433e-8fa5-e3252ad091d7)
+
+![Screenshot 2024-07-10 174418](https://github.com/dbrandstetter/quiz-it/assets/100001184/71c78760-0940-4ce6-bf67-dcc7be6cf107)
 
 <h3>Statistics</h3>
-![image](https://github.com/dbrandstetter/quiz-it/assets/100001184/e22eee87-0731-4177-a382-1100fdc7d839)
+
+![Screenshot 2024-07-10 174427](https://github.com/dbrandstetter/quiz-it/assets/100001184/170b0008-7b87-4cf3-a4d7-0efc9040d301)
